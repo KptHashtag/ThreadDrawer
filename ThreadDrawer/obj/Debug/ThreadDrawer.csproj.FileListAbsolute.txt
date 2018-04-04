@@ -1,0 +1,10 @@
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\bin\Debug\ThreadDrawer.exe.config
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\bin\Debug\ThreadDrawer.exe
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\bin\Debug\ThreadDrawer.pdb
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.csprojResolveAssemblyReference.cache
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.Form1.resources
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.Properties.Resources.resources
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.csproj.GenerateResource.Cache
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.csproj.CoreCompileInputs.cache
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.exe
+C:\Users\Papryk\source\repos\ThreadDrawer\ThreadDrawer\obj\Debug\ThreadDrawer.pdb
